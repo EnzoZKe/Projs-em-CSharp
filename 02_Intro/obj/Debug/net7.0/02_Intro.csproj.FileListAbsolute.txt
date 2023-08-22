@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\02_Intro\obj\Debug\net7.0\02_Intro.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\02_Intro\obj\Debug\net7.0\02_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\02_Intro\obj\Debug\net7.0\02_Intro.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\02_Intro\obj\Debug\net7.0\02_Intro.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\02_Intro\obj\Debug\net7.0\02_Intro.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\02_Intro\bin\Debug\net7.0\02_Intro.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\02_Intro\bin\Debug\net7.0\02_Intro.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\02_Intro\bin\Debug\net7.0\02_Intro.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\02_Intro\bin\Debug\net7.0\02_Intro.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\02_Intro\bin\Debug\net7.0\02_Intro.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\02_Intro\obj\Debug\net7.0\02_Intro.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\02_Intro\obj\Debug\net7.0\refint\02_Intro.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\02_Intro\obj\Debug\net7.0\02_Intro.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\02_Intro\obj\Debug\net7.0\02_Intro.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\02_Intro\obj\Debug\net7.0\ref\02_Intro.dll

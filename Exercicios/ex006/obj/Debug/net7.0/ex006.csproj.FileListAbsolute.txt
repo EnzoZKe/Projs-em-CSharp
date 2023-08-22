@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\Exercicios\ex006\obj\Debug\net7.0\ex006.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\Exercicios\ex006\obj\Debug\net7.0\ex006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\Exercicios\ex006\obj\Debug\net7.0\ex006.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\Exercicios\ex006\obj\Debug\net7.0\ex006.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\Exercicios\ex006\obj\Debug\net7.0\ex006.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\Exercicios\ex006\bin\Debug\net7.0\ex006.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\Exercicios\ex006\bin\Debug\net7.0\ex006.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\Exercicios\ex006\bin\Debug\net7.0\ex006.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\Exercicios\ex006\bin\Debug\net7.0\ex006.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\Exercicios\ex006\bin\Debug\net7.0\ex006.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\Exercicios\ex006\obj\Debug\net7.0\ex006.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\Exercicios\ex006\obj\Debug\net7.0\refint\ex006.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\Exercicios\ex006\obj\Debug\net7.0\ex006.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\Exercicios\ex006\obj\Debug\net7.0\ex006.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\Exercicios\ex006\obj\Debug\net7.0\ref\ex006.dll

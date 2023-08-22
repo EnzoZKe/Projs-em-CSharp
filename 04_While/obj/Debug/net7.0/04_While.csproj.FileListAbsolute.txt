@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\04_While\obj\Debug\net7.0\04_While.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\04_While\obj\Debug\net7.0\04_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\04_While\obj\Debug\net7.0\04_While.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\04_While\obj\Debug\net7.0\04_While.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\04_While\obj\Debug\net7.0\04_While.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\04_While\bin\Debug\net7.0\04_While.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\04_While\bin\Debug\net7.0\04_While.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\04_While\bin\Debug\net7.0\04_While.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\04_While\bin\Debug\net7.0\04_While.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\04_While\bin\Debug\net7.0\04_While.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\04_While\obj\Debug\net7.0\04_While.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\04_While\obj\Debug\net7.0\refint\04_While.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\04_While\obj\Debug\net7.0\04_While.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\04_While\obj\Debug\net7.0\04_While.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\04_While\obj\Debug\net7.0\ref\04_While.dll
