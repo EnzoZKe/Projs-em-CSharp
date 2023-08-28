@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\06_Sistema_Passagens\bin\Debug\net7.0\06_Sistema_Passagens.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\06_Sistema_Passagens\bin\Debug\net7.0\06_Sistema_Passagens.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\06_Sistema_Passagens\bin\Debug\net7.0\06_Sistema_Passagens.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\06_Sistema_Passagens\bin\Debug\net7.0\06_Sistema_Passagens.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\06_Sistema_Passagens\bin\Debug\net7.0\06_Sistema_Passagens.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\06_Sistema_Passagens\obj\Debug\net7.0\06_Sistema_Passagens.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\06_Sistema_Passagens\obj\Debug\net7.0\06_Sistema_Passagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\06_Sistema_Passagens\obj\Debug\net7.0\06_Sistema_Passagens.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\06_Sistema_Passagens\obj\Debug\net7.0\06_Sistema_Passagens.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\06_Sistema_Passagens\obj\Debug\net7.0\06_Sistema_Passagens.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\06_Sistema_Passagens\obj\Debug\net7.0\06_Sistema_Passagens.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\06_Sistema_Passagens\obj\Debug\net7.0\refint\06_Sistema_Passagens.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\06_Sistema_Passagens\obj\Debug\net7.0\06_Sistema_Passagens.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\06_Sistema_Passagens\obj\Debug\net7.0\06_Sistema_Passagens.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\06_Sistema_Passagens\obj\Debug\net7.0\ref\06_Sistema_Passagens.dll

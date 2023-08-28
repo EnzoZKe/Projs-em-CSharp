@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\07_Classes_e_Obj\obj\Debug\net7.0\07_Classes_e_Obj.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\07_Classes_e_Obj\obj\Debug\net7.0\07_Classes_e_Obj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\07_Classes_e_Obj\obj\Debug\net7.0\07_Classes_e_Obj.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\07_Classes_e_Obj\obj\Debug\net7.0\07_Classes_e_Obj.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\07_Classes_e_Obj\obj\Debug\net7.0\07_Classes_e_Obj.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\07_Classes_e_Obj\bin\Debug\net7.0\07_Classes_e_Obj.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\07_Classes_e_Obj\bin\Debug\net7.0\07_Classes_e_Obj.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\07_Classes_e_Obj\bin\Debug\net7.0\07_Classes_e_Obj.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\07_Classes_e_Obj\bin\Debug\net7.0\07_Classes_e_Obj.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\07_Classes_e_Obj\bin\Debug\net7.0\07_Classes_e_Obj.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\07_Classes_e_Obj\obj\Debug\net7.0\07_Classes_e_Obj.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\07_Classes_e_Obj\obj\Debug\net7.0\refint\07_Classes_e_Obj.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\07_Classes_e_Obj\obj\Debug\net7.0\07_Classes_e_Obj.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\07_Classes_e_Obj\obj\Debug\net7.0\07_Classes_e_Obj.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\07_Classes_e_Obj\obj\Debug\net7.0\ref\07_Classes_e_Obj.dll
