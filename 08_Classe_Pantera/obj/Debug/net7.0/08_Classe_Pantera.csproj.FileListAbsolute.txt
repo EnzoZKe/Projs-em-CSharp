@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\08_Classe_Pantera\obj\Debug\net7.0\08_Classe_Pantera.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\08_Classe_Pantera\obj\Debug\net7.0\08_Classe_Pantera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\08_Classe_Pantera\obj\Debug\net7.0\08_Classe_Pantera.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\08_Classe_Pantera\obj\Debug\net7.0\08_Classe_Pantera.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\08_Classe_Pantera\obj\Debug\net7.0\08_Classe_Pantera.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\08_Classe_Pantera\bin\Debug\net7.0\08_Classe_Pantera.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\08_Classe_Pantera\bin\Debug\net7.0\08_Classe_Pantera.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\08_Classe_Pantera\bin\Debug\net7.0\08_Classe_Pantera.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\08_Classe_Pantera\bin\Debug\net7.0\08_Classe_Pantera.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\08_Classe_Pantera\bin\Debug\net7.0\08_Classe_Pantera.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\08_Classe_Pantera\obj\Debug\net7.0\08_Classe_Pantera.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\08_Classe_Pantera\obj\Debug\net7.0\refint\08_Classe_Pantera.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\08_Classe_Pantera\obj\Debug\net7.0\08_Classe_Pantera.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\08_Classe_Pantera\obj\Debug\net7.0\08_Classe_Pantera.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\08_Classe_Pantera\obj\Debug\net7.0\ref\08_Classe_Pantera.dll

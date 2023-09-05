@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\09_Herança_e_Polimorfismo\obj\Debug\net7.0\09_Herança_e_Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\09_Herança_e_Polimorfismo\obj\Debug\net7.0\09_Herança_e_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\09_Herança_e_Polimorfismo\obj\Debug\net7.0\09_Herança_e_Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\09_Herança_e_Polimorfismo\obj\Debug\net7.0\09_Herança_e_Polimorfismo.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\09_Herança_e_Polimorfismo\obj\Debug\net7.0\09_Herança_e_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\09_Herança_e_Polimorfismo\bin\Debug\net7.0\09_Herança_e_Polimorfismo.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\09_Herança_e_Polimorfismo\bin\Debug\net7.0\09_Herança_e_Polimorfismo.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\09_Herança_e_Polimorfismo\bin\Debug\net7.0\09_Herança_e_Polimorfismo.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\09_Herança_e_Polimorfismo\bin\Debug\net7.0\09_Herança_e_Polimorfismo.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\09_Herança_e_Polimorfismo\bin\Debug\net7.0\09_Herança_e_Polimorfismo.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\09_Herança_e_Polimorfismo\obj\Debug\net7.0\09_Herança_e_Polimorfismo.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\09_Herança_e_Polimorfismo\obj\Debug\net7.0\refint\09_Herança_e_Polimorfismo.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\09_Herança_e_Polimorfismo\obj\Debug\net7.0\09_Herança_e_Polimorfismo.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\09_Herança_e_Polimorfismo\obj\Debug\net7.0\09_Herança_e_Polimorfismo.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\09_Herança_e_Polimorfismo\obj\Debug\net7.0\ref\09_Herança_e_Polimorfismo.dll
