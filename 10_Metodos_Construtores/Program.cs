@@ -27,24 +27,25 @@ public class Program
         //? Com metodo construtor;
         //* com ReadLine
 
-        /*Pessoa pesso1 = new Pessoa
+        Console.WriteLine("Coloque o nome da Pessoa, sua idade e email");
+        Pessoa pesso1 = new Pessoa
         (   
             Console.ReadLine(), 
             int.Parse(Console.ReadLine()),
             Console.ReadLine()
-        );*/
+        );
 
         //* sem ReadLine
-        Pessoa pesso1 = new Pessoa("Enzo", 17, "ebs.sarante@gmail.com");
-        Pessoa pesso2 = new Pessoa("Abner", 16, "abner.leite@gmail.com");
-        Pessoa pesso3 = new Pessoa("Cesar", 17, "cesar.souza@gmail.com");
+        //Pessoa pesso1 = new Pessoa("Enzo", 17, "ebs.sarante@gmail.com");
+        //Pessoa pesso2 = new Pessoa("Abner", 16, "abner.leite@gmail.com");
+        //Pessoa pesso3 = new Pessoa("Cesar", 17, "cesar.souza@gmail.com");
 
 
         //? Chama o metodo
         //pesso1.Cantar();
         pesso1.infos();
-        pesso2.infos();
-        pesso3.infos();
+        //pesso2.infos();
+        //pesso3.infos();
 
     }
 }

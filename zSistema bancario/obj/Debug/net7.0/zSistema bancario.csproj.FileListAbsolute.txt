@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\zSistema bancario\obj\Debug\net7.0\zSistema bancario.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\zSistema bancario\obj\Debug\net7.0\zSistema bancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\zSistema bancario\obj\Debug\net7.0\zSistema bancario.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\zSistema bancario\obj\Debug\net7.0\zSistema bancario.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\zSistema bancario\obj\Debug\net7.0\zSistema bancario.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\zSistema bancario\bin\Debug\net7.0\zSistema bancario.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\zSistema bancario\bin\Debug\net7.0\zSistema bancario.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\zSistema bancario\bin\Debug\net7.0\zSistema bancario.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\zSistema bancario\bin\Debug\net7.0\zSistema bancario.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\zSistema bancario\bin\Debug\net7.0\zSistema bancario.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\zSistema bancario\obj\Debug\net7.0\zSistema bancario.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\zSistema bancario\obj\Debug\net7.0\refint\zSistema bancario.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\zSistema bancario\obj\Debug\net7.0\zSistema bancario.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\zSistema bancario\obj\Debug\net7.0\zSistema bancario.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso dev\2 semestre\backEnd\zSistema bancario\obj\Debug\net7.0\ref\zSistema bancario.dll

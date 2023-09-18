@@ -3,9 +3,10 @@
     public static void Main()
     {
         //? Criando uma classe anonima (Classe sem definição inicial);
+        Console.WriteLine("Coloque o nome da pessoa 1");
         var pessoa1 = new
         {
-            Nome = "Jonas",
+            Nome = Console.ReadLine(),
             Idade = 17
         };
         var pessoa2 = new
@@ -15,7 +16,7 @@
             Email = "maraia.estudanterealofc@gmail.com"
         };
 
-        Console.WriteLine($"A pessoa 1 se chama{pessoa1.Nome} e tem {pessoa1.Idade} anos");
+        Console.WriteLine($"A pessoa 1 se chama {pessoa1.Nome} e tem {pessoa1.Idade} anos");
         Console.WriteLine($"A pessoa 2 se chama {pessoa2.Nome} e tem {pessoa2.Email} como email");
 
         var carro1 = new
