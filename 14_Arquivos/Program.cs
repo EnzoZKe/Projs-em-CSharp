@@ -10,7 +10,7 @@ public class Prg
         LerArquivo();
     }
 
-    //# Cria uma string com o nome do caminho e arquivo a ser criado, para quando mudar o nome dela
+    //$ Cria uma string com o nome do caminho e arquivo a ser criado, para quando mudar o nome dela
     public static string path = "Arquivo/arquivo.txt";
 
 
@@ -18,7 +18,7 @@ public class Prg
     {
         try
         {
-            //# Instanciando um obj da classe StreanWriter para gravar em arquivo
+            //$ Instanciando um obj da classe StreanWriter para gravar em arquivo
             using (StreamWriter arquivo = new StreamWriter(path, true))
             {
                 Console.Clear();
@@ -26,7 +26,8 @@ public class Prg
                 arquivo.WriteLine(Console.ReadLine());
 
                 //# outro metodo de fazer ^^^^^^
-                /**
+                /*
+
                 Console.Clear();
                 Console.WriteLine("escreva algo para gravarmos");
                 string texto = Console.ReadLine();
@@ -46,22 +47,22 @@ public class Prg
         //t Verificar Se O Arquivo Existe
         if (File.Exists(path) == false)
         {
-            //# Executa quando o IF for falso
-            //# Ele cria o arquivo
+            //$ Executa quando o IF for falso
+            //$ Ele cria o arquivo
             File.Create(path);
         }
 
         try
         {
-            //# Obj pra ler o arquivo (StreamReader)
+            //$ Obj pra ler o arquivo (StreamReader)
             using (StreamReader arquivo = new StreamReader(path))
             {
                 Console.Clear();
                 string linha;
-                //# While para ler linha por linha no arquivo
+                //$ While para ler linha por linha no arquivo
                 while ((linha = arquivo.ReadLine()) != null)
                 {
-                    //# Escreve no console o conteudo da linha
+                    //$ Escreve no console o conteudo da linha
                     Console.WriteLine(linha);
                 }
             }
