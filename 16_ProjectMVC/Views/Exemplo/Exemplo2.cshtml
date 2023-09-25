@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "Inicio";
+}
+
+<div class="text-center">
+    <h1 class="display-4">2° pagina do exemplo</h1>
+    <p>Pagina criada com controller ExemploController</p>
+
+    <p>Coisas adicionais que podemos usar:</p>
+
+    <button class="btn btn-outline-info">Clique aqui</button>
+
+    <p>Codigos em C# (tem que colocar arroba)</p>
+    @{
+        string name = "Enzo";
+    }
+
+    <h1>Ola @name</h1>
+
+    <p>Hoje é @DateTime.Now.ToString("dddd - dd // MM // yyyy // hh:mm:ss")</p>
+
+    @{
+        bool mostrarMSG = true;
+        if(mostrarMSG == true)
+        {
+            <p>Esta mensagem apareceu por causa do IF</p>
+        }
+
+        for (int i = 0; i <= 10; i++)
+        {
+            int res = i*8;
+            <p>8 x @i = @res</p>
+        }
+    }
+
+</div>
