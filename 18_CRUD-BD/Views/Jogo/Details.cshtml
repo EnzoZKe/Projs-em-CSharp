@@ -1,0 +1,43 @@
+@model _18_CRUD_BD.Models.Jogo
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detalhes do Jogo</h1>
+
+<div>
+    <h4>@Html.DisplayFor(model => model.Nome)</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+        <dt class = "col-sm-2">
+            <img src="@Html.DisplayNameFor(model => model.Imagem)" alt="">
+        </dt>
+        <dd class = "col-sm-10">
+            <img src="@Html.DisplayFor(model => model.Imagem)" alt="">
+            
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Ativo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Ativo)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.JogoId" class="btn btn-success">Editar</a> |
+    <a asp-action="Index" class="btn btn-warning">Volta para a lista</a>
+</div>
