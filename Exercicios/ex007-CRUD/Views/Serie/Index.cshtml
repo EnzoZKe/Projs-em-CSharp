@@ -1,0 +1,53 @@
+@model IEnumerable<ex007_CRUD.Models.Series>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-light">Lista de Series</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-outline-success">Adicionar nova serie</a>
+</p>
+<table class="table">
+    <thead class="">
+        <tr class="container d-flex justify-content-between">
+            <th class="d-lg-block text-light col-md-3 col-4">
+                @Html.DisplayNameFor(model => model.Imagem)
+            </th>
+            <th class="d-lg-block text-light col-md-3 col-4">
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th class="d-lg-block d-none text-light col-md-3">
+                @Html.DisplayNameFor(model => model.Autor)
+            </th>
+            <th class="d-md-block d-none text-light col-md-3">
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr class="container d-flex justify-content-between">
+            <td>
+                <img src="@Html.DisplayFor(modelItem => item.Imagem)" alt="" class="img-fluid rounded rounded-5 " style="max-width: 145px; height: 200px;">
+            </td>
+            <td class="d-lg-block col-1 text-light col-md-3 col-4">
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td class="d-lg-block d-none text-light col-md-3">
+                @Html.DisplayFor(modelItem => item.Autor)
+            </td>
+            <td class="d-md-block d-none text-light col-md-3">
+                @Html.DisplayFor(modelItem => item.Descricao)
+            </td>
+            <td class="">
+                <a asp-action="Edit" asp-route-id="@item.SerieId"><i class="bi bi-pencil text-success"></i></a>
+                <a asp-action="Details" asp-route-id="@item.SerieId"><i class="bi bi-info-circle text-info"></i></a>
+                <a asp-action="Delete" asp-route-id="@item.SerieId"><i class="bi bi-trash text-danger"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,44 @@
+@model ex007_CRUD.Models.Series
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1 class="text-light">Deletar</h1>
+
+<h3 class="text-light">Absoluta certeza que quer deletar isso?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2 text-light">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class = "col-sm-10 text-light">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class = "col-sm-2 text-light">
+            @Html.DisplayNameFor(model => model.Autor)
+        </dt>
+        <dd class = "col-sm-10 text-light">
+            @Html.DisplayFor(model => model.Autor)
+        </dd>
+        <dt class = "col-sm-2 text-light">
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+        <dd class = "col-sm-10 text-light">
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+        <dt class = "col-sm-2 text-light">
+            @Html.DisplayNameFor(model => model.Imagem)
+        </dt>
+        <dd class = "col-sm-10">
+            <img src=" @Html.DisplayFor(model => model.Imagem)" alt="" class="img-fluid" style="width: 300px;">
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="SerieId" />
+        <input type="submit" value="Deletar" class="btn btn-outline-danger" /> 
+        <a asp-action="Index" class="btn btn-outline-primary">Voltar para a lista</a>
+    </form>
+</div>

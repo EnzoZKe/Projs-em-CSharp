@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2 semestre\\backEnd\\01_hello_world\\01_hello_world.csproj": {}
+    "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2 semestre\\backEnd\\01_hello_world\\01_hello_world.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2 semestre\\backEnd\\01_hello_world\\01_hello_world.csproj": {
+    "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2 semestre\\backEnd\\01_hello_world\\01_hello_world.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2 semestre\\backEnd\\01_hello_world\\01_hello_world.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2 semestre\\backEnd\\01_hello_world\\01_hello_world.csproj",
         "projectName": "01_hello_world",
-        "projectPath": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2 semestre\\backEnd\\01_hello_world\\01_hello_world.csproj",
+        "projectPath": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2 semestre\\backEnd\\01_hello_world\\01_hello_world.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2 semestre\\backEnd\\01_hello_world\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\OneDrive - SESISENAISP - Escolas\\curso dev\\2 semestre\\backEnd\\01_hello_world\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
